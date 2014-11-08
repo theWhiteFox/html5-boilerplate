@@ -52,6 +52,7 @@ var expectedFilesInDistDir = [
             'js/vendor/jquery-' + pkg.devDependencies.jquery + '.min.js',
             'js/vendor/modernizr-2.8.3.min.js',
 
+    'manifest.json',
     'robots.txt',
     'tile-wide.png',
     'tile.png'
